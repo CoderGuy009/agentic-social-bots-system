@@ -1,5 +1,6 @@
-# Grid07 AI Assignment — Cognitive Routing & RAG
-## Stack: Ollama (Llama 3) + sentence-transformers + FAISS — 100% Free, Runs Locally
+# Cognitive Routing & RAG-Multi-Agent-Social-Bot-System
+## Stack: 
+Ollama (Llama 3) + sentence-transformers + FAISS
 
 ---
 
