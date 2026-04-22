@@ -1,5 +1,5 @@
 # Execution Logs
-### Multi-Agent Social Media Bot System — Grid07 Assignment
+### Multi-Agent Social Media Bot System
 
 ---
 
